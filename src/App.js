@@ -92,7 +92,7 @@ function App() {
                   {i === 0 && (
                     <td rowSpan={recipe.ingredients.length}>
                         <img
-                            src={recipe.imageUrl ? `${process.env.PUBLIC_URL}/images/${recipe.imageUrl}` : `${process.env.PUBLIC_URL}/images/default.jpg`}
+                            src={recipe.imageUrl ? `${process.env.PUBLIC_URL}/${recipe.imageUrl}` : `${process.env.PUBLIC_URL}/images/default.jpg`}
                             alt={recipe.name}
                             className="recipe-img"
                         />
