@@ -80,6 +80,7 @@ function App() {
               <th>1人前あたりの原価</th>
               <th>料理のグラム数</th>
               <th>動画</th>
+              <th>登録日時</th>
             </tr>
           </thead>
           <tbody>
@@ -112,6 +113,7 @@ function App() {
                       <td rowSpan={recipe.ingredients.length}>
                         <a href={recipe.videoUrl} target="_blank" rel="noopener noreferrer">動画を見る</a>
                       </td>
+                      <td rowSpan={recipe.ingredients.length}>{recipe.registeredAt}</td>
                     </>
                   )}
                 </tr>

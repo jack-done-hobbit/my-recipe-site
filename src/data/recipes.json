@@ -12,6 +12,7 @@
 	  "costPerServing": 80,
 	  "weight": 600,
 	  "imageUrl": "/images/curry.jpg",
+	  "registeredAt": "2025-03-24",
 	  "videoUrl": "https://www.youtube.com/watch?v=XXXXX"
 	},
 	{
@@ -26,6 +27,7 @@
 	  "costPerServing": 85,
 	  "weight": 400,
 	  "imageUrl": "",
+	  "registeredAt": "2025-02-24",
 	  "videoUrl": "https://www.youtube.com/watch?v=YYYYY"
 	}
   ]
