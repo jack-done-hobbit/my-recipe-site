@@ -1,0 +1,32 @@
+[
+	{
+	  "name": "カレーライス",
+	  "ingredients": [
+		{"item": "じゃがいも", "amount": "2個", "cost": 50},
+		{"item": "にんじん", "amount": "1本", "cost": 30},
+		{"item": "玉ねぎ", "amount": "1個", "cost": 40},
+		{"item": "カレールー", "amount": "1/2箱", "cost": 200}
+	  ],
+	  "servings": 4,
+	  "totalCost": 320,
+	  "costPerServing": 80,
+	  "weight": 600,
+	  "imageUrl": "/images/curry.jpg",
+	  "videoUrl": "https://www.youtube.com/watch?v=XXXXX"
+	},
+	{
+	  "name": "オムライス",
+	  "ingredients": [
+		{"item": "卵", "amount": "2個", "cost": 100},
+		{"item": "ご飯", "amount": "1杯", "cost": 50},
+		{"item": "ケチャップ", "amount": "適量", "cost": 20}
+	  ],
+	  "servings": 2,
+	  "totalCost": 170,
+	  "costPerServing": 85,
+	  "weight": 400,
+	  "imageUrl": "",
+	  "videoUrl": "https://www.youtube.com/watch?v=YYYYY"
+	}
+  ]
+  
